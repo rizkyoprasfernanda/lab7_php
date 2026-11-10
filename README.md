@@ -138,13 +138,13 @@ Muncul allert jumlah lebih besar atau sama dengan 1.
 Jika menginputkan huruf ke dalam kolom harga dan jumlah input tidak akan
 mau.
 
-![Screenshot 24](media/ss/24.png)
-
 ### Mini Project --- Aplikasi Formulir Data Mahasiswa
 
-![Screenshot 25](media/ss/25.png)
+![Screenshot 24](media/ss/24.png)
 
 Hasilnya :
+
+![Screenshot 25](media/ss/25.png)
 
 - Ketika data valid
 
