@@ -144,61 +144,54 @@ mau.
 
 Hasilnya :
 
-![Screenshot 25](media/ss/25.png)
-
 - Ketika data valid
-
-![Screenshot 26](media/ss/26.png)
+  ![Screenshot 25](media/ss/25.png)
 
 - Ketika terjadi kesalahan
-
-![Screenshot 27](media/ss/27.png)
+  ![Screenshot 26](media/ss/26.png)
 
 ## Eksperimen Mandiri
 
 ### 1. Tambahkan perhitungan nilai rata-rata dari tiga komponen nilai.
 
-![Screenshot 28](media/ss/28.png)
+![Screenshot 27](media/ss/27.png)
 
 Hasilnya :
-
-![Screenshot 29](media/ss/29.png)
+![Screenshot 28](media/ss/28.png)
 
 ### 2. Ubah contoh GET agar dapat mencari nama dari array data sederhana.
 
-![Screenshot 30](media/ss/30.png)
+![Screenshot 29](media/ss/29.png)
 
 Hasilnya :
-
-![Screenshot 31](media/ss/31.png)
+![Screenshot 30](media/ss/30.png)
 
 Jika nama yang dicari tidak ada dalam array maka akan munucl allert nama
 tidak ditemukan.
 
 ### 3. Buat function untuk mengubah format harga menjadi Rupiah.
 
-![Screenshot 32](media/ss/32.png)
+![Screenshot 31](media/ss/31.png)
 
 Hasilnya :
-
-![Screenshot 33](media/ss/33.png)
+![Screenshot 32](media/ss/32.png)
 
 ### 4. Tambahkan validasi agar NIM hanya berisi angka dan panjangnya sesuai ketentuan yang Anda tetapkan.
 
-![Screenshot 34](media/ss/34.png)
+![Screenshot 33](media/ss/33.png)
 
 Hasilnya :
-
-![Screenshot 35](media/ss/35.png)
+![Screenshot 34](media/ss/34.png)
 
 Jumlah NIM harus sesuai dengan batas yang telah ditentukan, disini saya
 membatasi jumlahnya 9 karakter.
 
 ### 5. Tambahkan tombol reset pada form dan jelaskan perbedaannya dengan pemrosesan ulang di server.
 
-![Screenshot 36](media/ss/36.png)
+![Screenshot 35](media/ss/35.png)
 
 Hasilnya :
+![Screenshot 36](media/ss/36.png)
 
 Perbedaannya :
 
